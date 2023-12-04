@@ -4,7 +4,7 @@
 
 <img src="https://github.com/checkthistape/RC4ALL/blob/main/rc4all_logo2.png" width="300" height="300" align="left" alt="Made by David Krikovtsov"/>
 
-RC4ALL takes a practical approach to remote presentation control, seamlessly integrating hardware and software components. The ESP8266 NodeMCU, serving as the client, establishes a WiFi connection without the need for hard-coded Arduino settings. Instead, the project employs the WifiManager library, simplifying the user experience by saving WiFi credentials after the initial connection.
+RC4ALL *(stands for **R**emote **C**ontrol For **All**)* takes a practical approach to remote presentation control, seamlessly integrating hardware and software components. The ESP8266 NodeMCU, serving as the client, establishes a WiFi connection without the need for hard-coded Arduino settings. Instead, the project employs the WifiManager library, simplifying the user experience by saving WiFi credentials after the initial connection.
 
 For the first connection, RC4ALL initiates a unique access point with a captive portal and an HTML interface. This innovative setup allows users to connect the module to their WiFi effortlessly using a smartphone, eliminating the complexities of traditional configuration processes.
 
