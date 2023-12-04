@@ -1,0 +1,7 @@
+﻿UDPClient.obj : error LNK2019: unresolved external symbol inet_ntoa referenced in function "int __cdecl doit(int,char * *)" (?doit@@YAHHPEAPEAD@Z)
+UDPClient.obj : error LNK2019: unresolved external symbol gethostbyname referenced in function "int __cdecl doit(int,char * *)" (?doit@@YAHHPEAPEAD@Z)
+UDPClient.obj : error LNK2019: unresolved external symbol gethostname referenced in function "int __cdecl doit(int,char * *)" (?doit@@YAHHPEAPEAD@Z)
+UDPClient.obj : error LNK2019: unresolved external symbol WSAStartup referenced in function main
+UDPClient.obj : error LNK2019: unresolved external symbol WSACleanup referenced in function main
+UDPClient.obj : error LNK2019: unresolved external symbol WSAGetLastError referenced in function "int __cdecl doit(int,char * *)" (?doit@@YAHHPEAPEAD@Z)
+D:\Coding\c++\UDPClient\x64\Debug\UDPClient.exe : fatal error LNK1120: 6 unresolved externals

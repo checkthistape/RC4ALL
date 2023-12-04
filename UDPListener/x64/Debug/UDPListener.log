@@ -1,0 +1,4 @@
+﻿  UDPListener.cpp
+D:\Coding\c++\UDPListener\UDPListener.cpp(85,14): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Coding\c++\UDPListener\UDPListener.cpp(215,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  UDPListener.vcxproj -> D:\Coding\c++\UDPListener\x64\Debug\UDPListener.exe
